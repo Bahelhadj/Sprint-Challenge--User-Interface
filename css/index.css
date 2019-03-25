@@ -313,3 +313,6 @@ h2 {
 .quadbox img {
     width: 100%;
 }
+.learn:hover {
+    color: red;
+}
